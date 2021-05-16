@@ -26,7 +26,7 @@
     "url": "https://github.com/rustwasm/create-wasm-app/issues"
   },
   "homepage": "https://github.com/rustwasm/create-wasm-app#readme",
-  "dependencies": {                     // Add this three lines block!
+  "dependencies": {
     "wasm-game-of-life": "file:../pkg"
   },
   "devDependencies": {
@@ -37,11 +37,3 @@
     "copy-webpack-plugin": "^5.0.0"
   }
 }
-
-{
-  // ...
-  "devDependencies": {
-    //...
-  }
-}
-
